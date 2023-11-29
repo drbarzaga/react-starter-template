@@ -70,4 +70,3 @@ $ npm run lint:fix
 - [prettier](https://www.npmjs.com/package/prettier) - An opinionated code formatter. Used to enforce a consistent style.
 - [@typescript-eslint/parser](https://www.npmjs.com/package/@typescript-eslint/parser) - ESLint parser which leverages TypeScript ESTree to allow for ESLint to lint TypeScript source code.
 - [@typescript-eslint/eslint-plugin](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin) - ESLint plugin which provides lint rules for TypeScript codebases.
-- [pre-commit](https://www.npmjs.com/package/pre-commit) - Is a `pre-commit` hook installer for git. It will ensure that your npm test (or other specified scripts) passes before you can commit your changes. This all conveniently configured in your package.json.

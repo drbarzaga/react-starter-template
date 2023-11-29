@@ -1,6 +1,6 @@
 const App = () => {
   return (
-    <div>
+    <div className="App">
       <h1>React + TypeScript + Babel + WebPack Boilerplate</h1>
     </div>
   );
